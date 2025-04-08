@@ -1,5 +1,5 @@
 
-# LiveChain Vision
+# LiveChain Vision (Updated)
 
 ## 🧠 What Problem Does LiveChain Solve?
 
@@ -18,6 +18,10 @@ LiveChain creates a **verifiable memory layer** for digital events, designed for
 - Blockchain anchoring
 - Modular graph of event lineage
 - Optional governance layer
+- *Quantum validation for truth anchoring (proposed):*
+  - Classical systems execute and interact
+  - Quantum layers validate provenance, ensuring consistency in non-deterministic systems
+  - This flips the paradigm — quantum isn’t the app engine, it’s the oracle of digital memory
 
 ## 🌍 Use Cases
 
@@ -34,5 +38,5 @@ LiveChain is a public-good layer for digital trust.
 
 ## 👁️‍🗨️ Authorship Proof
 
-Hash: `2f05f8d4022b074de8c4b32d2db35cb7a0226aa76ebc12b2a773d6ffe2b7eda9`  
+Hash (v0.1): `2f05f8d4022b074de8c4b32d2db35cb7a0226aa76ebc12b2a773d6ffe2b7eda9`  
 Timestamp: April 2, 2025
